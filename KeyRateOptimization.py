@@ -6,16 +6,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 import scipy.special as sf
 
-blue_1   = (91/255, 155/255, 213/255);
-red_1    = (237/255, 70/255, 70/255);
-green_1  = (0/255, 176/255, 80/255);
-black_1  = (0, 0, 0);
-unknown_1   = (150/255, 15/255, 213/255);
-unknown_2    = (150/255, 150/255, 150/255);
-blue_2   = (91/255, 100/255, 255/255);
-red_2    = (150/255, 70/255, 70/255);
-green_2  = (0/255, 250/255, 80/255);
-
 hbar=1.05*10**-34 # Plank constant
 w0=12.56*10**14 # Frequency of 1.55 um radiation
 
